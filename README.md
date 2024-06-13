@@ -1,4 +1,4 @@
-# AI4Devs-intro
+# AI4Devs-TMS
 
 En este repositorio encontrarás los ejercicios del tema "Introducción a la Inteligencia Artificial en Desarrollo de Software"
 
